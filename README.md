@@ -1,3 +1,7 @@
+![Status](https://img.shields.io/badge/status-active-brightgreen)
+![AI](https://img.shields.io/badge/powered%20by-AI-blue)
+![License](https://img.shields.io/badge/license-MIT-green)
+
 # GraviCore AI 🚀
 
 GraviCore is a next-generation AI Operating System designed to automate workflows, build applications, and interact visually in real-time.
