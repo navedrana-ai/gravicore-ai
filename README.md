@@ -29,6 +29,43 @@ To create a personal AI system that can:
 - Three.js (3D Assistant)
 - Node.js Automation Engine
 
+## ⚙️ Installation
+
+```bash
+git clone https://github.com/navedrana-ai/gravicore-ai
+cd gravicore-ai
+npm install
+npm run dev
+
+👉 ye dikhata hai:
+✔ real project hai  
+✔ runnable hai  
+
+---
+
+# 🔥 FEATURES UPGRADE (SMART WAY)
+
+👉 features ko thoda premium bana:
+
+```markdown
+## 🔥 Core Features
+
+- 🧠 Local AI Engine (Ollama)
+- ⚡ Autonomous Workflow Execution
+- 🛠️ Full App Generator (React/Vite)
+- 🎤 Voice Interaction Mode
+- 🤖 Multi-Agent System
+- 🎮 3D Interactive Assistant (in progress)
+
+## 🗺️ Roadmap
+
+- [x] AI Chat System
+- [x] Workflow Engine
+- [x] Project Generator
+- [ ] 3D Anime Assistant
+- [ ] Real-time Hand Tracking
+- [ ] Tablet + PC Interaction System
+
 ## 🚧 Status
 
 Under active development
@@ -42,3 +79,9 @@ Under active development
 ## 📸 Preview
 
 ![GraviCore Preview](Screenshot.png)
+
+## 🎥 Demo
+
+[Watch Demo](demo.mp4)
+
+> 🚀 A next-generation AI Operating System that builds, automates, and interacts like a digital human.
