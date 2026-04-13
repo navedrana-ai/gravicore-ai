@@ -38,3 +38,7 @@ Under active development
 - Real-time 3D assistant interaction
 - Tablet + PC simulation
 - Full AI OS ecosystem
+
+## 📸 Preview
+
+![GraviCore Preview](screenshot.png)
