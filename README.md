@@ -41,4 +41,4 @@ Under active development
 
 ## 📸 Preview
 
-![GraviCore Preview](screenshot.png)
+![GraviCore Preview](Screenshot.png)
